@@ -1,1 +1,1 @@
-# word-embeddings
+An initial play with word embeddings using content sourced from https://machinelearningmastery.com/word-embeddings-in-language-models/
